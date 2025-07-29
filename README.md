@@ -214,6 +214,4 @@ README files typically use these extensions:
 - `README.rst` (reStructuredText - common in Python projects)
 - `README.txt` (Plain text - less common now)
 
-For most projects today, Markdown (`.md`) is the standard choice.
 
-Would you like me to elaborate on any specific aspect of README creation?
