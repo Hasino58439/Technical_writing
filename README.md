@@ -7,7 +7,7 @@ A README file is a crucial document that explains your project to users and othe
 
 Most README files follow this general structure:
 
-```
+
 # Project Title
 
 Short description of your project.
